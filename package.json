@@ -1,0 +1,16 @@
+{
+  "name": "transactions-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple React web app that lists transactions from Supabase.",
+  "scripts": {
+    "dev": "python -m http.server 5173"
+  },
+  "keywords": [
+    "react",
+    "supabase",
+    "transactions"
+  ],
+  "author": "",
+  "license": "MIT"
+}
